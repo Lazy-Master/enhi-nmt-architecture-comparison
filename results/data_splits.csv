@@ -1,0 +1,4 @@
+split,raw_pairs,after_cleaning_pairs,kept_pct,used_in_final_run
+train,1652981,1377338,83.3,99561
+validation,520,520,100.0,3000
+test,2507,2505,99.9,2505

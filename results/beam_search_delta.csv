@@ -1,0 +1,4 @@
+model,delta_bleu,delta_chrfpp
+Vanilla Seq2Seq,+0.190,-1.147
+Seq2Seq + Bahdanau,+0.642,-0.631
+Transformer,+0.514,+1.183

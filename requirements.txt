@@ -1,0 +1,11 @@
+# Versions observed in the final Kaggle run (notebook outputs, cells 2 and 4).
+# PyTorch 2.11.0+cu128 was supplied by the Kaggle image; install a CUDA build
+# matching your driver from https://pytorch.org if running locally.
+torch>=2.0
+datasets>=3.0
+sentencepiece==0.2.2
+sacrebleu==2.6.0
+numpy
+pandas
+matplotlib
+tqdm

@@ -1,0 +1,4 @@
+model,mean_hyp_words,mean_ref_words,ratio,empty_outputs,max_hyp_words
+Vanilla Seq2Seq,22.7,22.8,0.996,0,93
+Seq2Seq + Bahdanau,22.9,22.8,1.007,0,128
+Transformer,46.8,22.8,2.058,0,128

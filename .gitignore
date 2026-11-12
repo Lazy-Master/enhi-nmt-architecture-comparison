@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+
+# LaTeX build artefacts
+*.aux
+*.log
+*.toc
+*.lof
+*.lot
+*.idx
+*.out
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+
+# Run artefacts / large binaries
+*.pt
+*.model
+*.zip
+/kaggle_working/
+/EnHi_NMT_Study/
+
+# OS
+.DS_Store
+Thumbs.db

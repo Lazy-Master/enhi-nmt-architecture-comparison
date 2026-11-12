@@ -1,0 +1,9 @@
+metric,run_v4_noam_1.0,run_v5_noam_0.55
+Noam scale,1.0,0.55
+peak_lr,6.99e-4,3.84e-4
+patience,3,4
+best_val_loss,6.9905,6.5154
+chrfpp_greedy,3.494,7.911
+bleu_greedy,0.056,0.427
+ter_greedy,405.92,213.61
+output_ref_ratio,3.983,2.058

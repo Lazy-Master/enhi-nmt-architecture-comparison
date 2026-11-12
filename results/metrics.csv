@@ -1,0 +1,4 @@
+model,params_m,best_val_loss,bleu_greedy,chrfpp_greedy,ter_greedy,bleu_beam5,chrfpp_beam5
+Seq2Seq + Bahdanau,94.80,4.3803,2.665,18.560,98.656,3.307,17.929
+Vanilla Seq2Seq,43.15,4.6957,1.334,14.796,100.814,1.524,13.649
+Transformer,62.23,6.5154,0.427,7.911,213.607,0.941,9.094

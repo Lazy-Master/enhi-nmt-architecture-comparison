@@ -1,0 +1,3 @@
+language,word_level_vocab,word_level_oov_test_pct,subword_vocab,subword_unk_test_pct
+English,49955,11.97,32000,0.000
+Hindi,43774,8.85,32000,0.001

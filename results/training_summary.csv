@@ -1,0 +1,4 @@
+model,params_m,best_epoch,best_val_loss,best_val_ppl,final_train_loss,train_time_min,epochs_run,stopping
+Vanilla Seq2Seq,43.15,10,4.6957,109.48,3.6672,51.2,12,ran_to_cap
+Seq2Seq + Bahdanau,94.80,6,4.3803,79.86,2.6522,120.8,9,early_stop
+Transformer,62.23,7,6.5154,675.49,6.7155,59.0,11,early_stop
